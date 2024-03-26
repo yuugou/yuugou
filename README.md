@@ -2,6 +2,10 @@
 
 I'm currently not working on an IT company.
 
+It's my favorite picture:
+
+[lion](https://picjumbo.com/download?d=minimalist-photo-of-lion-relaxing-in-studio-free-photo.jpeg&n=minimalist-photo-of-lion-relaxing-in-studio&id=1)
+
 <!--
 **yuugou/yuugou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
