@@ -4,7 +4,7 @@ I'm currently not working on an IT company.
 
 It's my favorite picture:
 
-[lion](https://picjumbo.com/download?d=minimalist-photo-of-lion-relaxing-in-studio-free-photo.jpeg&n=minimalist-photo-of-lion-relaxing-in-studio&id=1)
+![lion](https://github.com/yuugou/yuugou/assets/111757494/daf44ebf-055d-4ef2-b630-6f6fe9cb37ee)
 
 <!--
 **yuugou/yuugou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
